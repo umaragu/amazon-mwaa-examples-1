@@ -11,7 +11,7 @@ This is an Ariflow verion of image processing workflow in [workshop](https://ima
 
 ## Workflow
 1. Verify the photo shows a clear face.
-2. Match against the collection of previously indexed faces
+2. Match against the collection of previously indexed faces.
 3. Resize the photo to thumbnails to display on the app.
 4. Index the user’s face into the collection so it can be used for matching in the future.
 5. Store the photo metadata with the user’s profile.
